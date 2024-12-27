@@ -152,7 +152,7 @@ python-debian==0.1.43+ubuntu1.1
 python-json-logger==3.2.1
 pythran==0.10.0
 # Editable install with no version control (pyTurb==0.4.0)
--e /home/facu/termofluidodinamica/pyturb/src
+#-e /home/facu/termofluidodinamica/pyturb/src
 pytz==2022.1
 pyxdg==0.27
 PyYAML==5.4.1
